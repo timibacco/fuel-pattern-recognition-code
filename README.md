@@ -23,3 +23,6 @@ python receiver/pc_receiver.py --host 192.168.4.1 --out logs
 
 ## Data
 The recorded sessions and landmark coordinates are in the companion repository: https://github.com/timibacco/fuel-pattern-recognition-data
+
+## Licence
+MIT — see [LICENSE](LICENSE).
